@@ -73,7 +73,3 @@ Lihat README di masing-masing folder:
 - [Frontend README](./ukf-tt-frontend/README.md)
 - [Backend README](./ukf-tt-backend/README.md)
 
-## Catatan
-
-Proyek ini menggunakan proteksi admin sederhana dengan API key. Untuk production, disarankan menggunakan autentikasi yang lebih kuat.
-
