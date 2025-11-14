@@ -1,6 +1,6 @@
 # UKF Table Tennis — Paket Lengkap
 
-Aplikasi pendaftaran UKF Table Tennis dengan frontend (React) dan backend (Node.js + MongoDB).
+Sistem pendaftaran anggota UKF Table Tennis dengan interface modern dan responsive.
 
 ## Struktur Proyek
 

@@ -1,5 +1,6 @@
 {
   "name": "ukf-tt-frontend",
+  "description": "UKF Table Tennis Registration System - Frontend",
   "version": "1.0.0",
   "type": "module",
   "private": true,
