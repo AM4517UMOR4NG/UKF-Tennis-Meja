@@ -49,7 +49,7 @@ export default function MobileNavbar() {
               </div>
               <div>
                 <h1 className="text-xl font-bold text-white">UKF Tennis</h1>
-                <p className="text-xs text-blue-400">Table Tennis Club</p>
+                <p className="text-xs text-blue-400">Table Tennis Club v1.0</p>
               </div>
             </Link>
 
