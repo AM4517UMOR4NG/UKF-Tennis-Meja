@@ -1,4 +1,4 @@
-# UKF Table Tennis — Paket Lengkap
+# UKF Table Tennis 
 
 Sistem pendaftaran anggota UKF Table Tennis dengan interface modern dan responsive.
 
@@ -72,4 +72,5 @@ npm run dev
 Lihat README di masing-masing folder:
 - [Frontend README](./ukf-tt-frontend/README.md)
 - [Backend README](./ukf-tt-backend/README.md)
+
 
