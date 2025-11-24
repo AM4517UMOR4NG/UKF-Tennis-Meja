@@ -3,7 +3,6 @@ import { Routes, Route, Navigate } from 'react-router-dom';
 import Home from './pages/Home';
 import ErrorBoundary from './components/ErrorBoundary';
 import { PerformanceProvider } from './components/PerformanceProvider';
-import Footer from './components/layout/Footer';
 
 // Lazy load non-critical pages
 const RegisterNoAccount = React.lazy(() => import('./pages/RegisterNoAccount'));
@@ -23,7 +22,7 @@ export default function App() {
   return (
     <ErrorBoundary>
       <PerformanceProvider>
-        <div className="flex flex-col relative">
+        <div className="min-h-screen flex flex-col relative">
           <main className="flex-1 container mx-auto overflow-x-hidden relative z-10">
             <Suspense fallback={<PageLoader />}>
               <Routes>
@@ -34,7 +33,6 @@ export default function App() {
               </Routes>
             </Suspense>
           </main>
-          <Footer />
         </div>
       </PerformanceProvider>
     </ErrorBoundary>
