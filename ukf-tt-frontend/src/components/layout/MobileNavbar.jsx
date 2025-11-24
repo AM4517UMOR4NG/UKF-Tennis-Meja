@@ -139,7 +139,7 @@ export default function MobileNavbar() {
       </motion.nav>
 
       {/* Spacer for fixed navbar */}
-      <div className="h-16"></div>
+      <div className="h-0"></div>
     </>
   );
 }
