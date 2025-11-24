@@ -241,7 +241,7 @@ export default function Home() {
       <footer className="relative bg-gradient-to-br from-gray-900/95 to-gray-800/95 backdrop-blur-md border-t border-gray-700/50 w-full mt-auto">
         <div className="absolute inset-0 bg-gradient-to-t from-blue-900/10 to-transparent pointer-events-none" />
         
-        <div className="relative w-full py-12">
+        <div className="relative w-full pt-10 pb-6">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
               {/* UKF Brand */}
@@ -339,7 +339,7 @@ export default function Home() {
 
             {/* Bottom Bar */}
             <motion.div 
-              className="mt-12 pt-8 border-t border-gray-700/50"
+              className="mt-8 pt-4 border-t border-gray-700/50"
               initial={{ opacity: 0 }}
               whileInView={{ opacity: 1 }}
               transition={{ duration: 0.6, delay: 0.4 }}
