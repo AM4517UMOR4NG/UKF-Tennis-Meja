@@ -1,6 +1,6 @@
 # UKF Table Tennis 
 
-Sistem pendaftaran anggota UKF Table Tennis dengan interfa yang responsive.
+Sistem pendaftaran anggota UKF Table Tennis dengan interface yang responsive.
 
 ## Struktur Proyek
 
@@ -75,4 +75,5 @@ npm run dev
 Lihat README di masing-masing folder:
 - [Frontend README](./ukf-tt-frontend/README.md)
 - [Backend README](./ukf-tt-backend/README.md)
+
 
